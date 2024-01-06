@@ -669,6 +669,11 @@ h3 {
 	opacity: 1;
 	transform: translateY(0);
 }
+
+.portfolio-item-inner h3:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
 /*========== Testimonial ==========*/
 .testimonial-wrapper {
 	max-width: 700px;
